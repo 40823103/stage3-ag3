@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '第三組 \n 組長: \n 林郁凱 40823119 \n 組員: \n 苏鷺瑋 40823150 \n 呂珮瑜 40823103 \n 吳嘉欣 40823107 \n 張宸嘉 40823154 \n 王彥筑 40523252 \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '123456 \n 第三組 \n 組長: \n 林郁凱 40823119 \n 組員: \n 苏鷺瑋 40823150 \n 呂珮瑜 40823103 \n 吳嘉欣 40823107 \n 張宸嘉 40823154 \n 王彥筑 40523252 \n \n', 'tags': '', 'url': 'About.html'}]};
