@@ -8,8 +8,19 @@
 <p>3.呂霈瑜 40823103</p>
 <p>4.吳嘉欣 40823107</p>
 <p>5.張宸嘉 40823154</p>
-<p>6.王彥筑 40523252</p>
-<h1><span>協同產品設計</span></h1>
-<p><span></span></p>
+<p>6.王彥筑 40523252</p><h1>Stage3</h1>
+<h2>Task1</h2>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false"># open file, default is read mode, since txt content no chinese char
+# no encoding = "UTF-8" is needed
+with open("stage3_2a.txt") as fh:
+    # readlines will read into the whole line and put into list format
+    # has \n at the end of each line
+    data = fh.readlines()
+#print(len(data))
+for i in range(len(data)):
+    group = data[i].rstrip("\n").split("\t")
+    print(group)
+# the following will use group data to generate needed html</pre><h2>Task2</h2>
+<br/><span>Python remote API </span><br/><br/><h2>Task3</h2>
 <p></p>
 <p></p>
